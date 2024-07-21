@@ -1,5 +1,5 @@
 # Montse
-Aquest repositori conte el codi per generar una plana amb enllaços per veure paraules en llenguatge de signes i es genera automaticament a partir d'un full de càlcul. La idea original es de la meva dona Montse, qui m'ha demanat poder tenir un lloc amb paraules i que ràpidament es puguin veure en llenguatge de signes.
+Aquest repositori conté el codi per generar una pàgina amb enllaços per veure paraules en llengua de signes i es genera automàticament a partir d'un full de càlcul. La idea original és de la meva dona Montse, qui m'ha demanat poder tenir un lloc amb paraules i que ràpidament es puguin veure en llengua de signes.
 
 # Crèdits:
 - [EDU365 - Signes](https://www.edu365.cat/signes/), [repo del github](https://github.com/projectestac/edu365-signes)
